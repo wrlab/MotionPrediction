@@ -24,7 +24,7 @@
     ```
 6. Clone this repository
     ```bash
-    git clone https://github.com/siyeong0/MotionPrediction.git
+    git clone https://github.com/wrlab/MotionPrediction.git
     ```
 ### PoseLib
 1. Create python virtual environment with python 3.7
