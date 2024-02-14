@@ -1,0 +1,367 @@
+02_01	walk
+02_02	walk
+02_03	run/jog
+02_04	jump, balance
+02_05	punch/strike
+02_06	bend over, scoop up, rise, lift arm
+02_07	swordplay
+02_08	swordplay
+02_09	swordplay
+02_10	wash self
+
+05_01	walk
+
+06_01	walk
+
+07_01	walk
+07_02	walk
+07_03	walk
+07_04	slow walk
+07_05	slow walk
+07_06	walk
+07_07	walk
+07_08	walk
+07_09	walk
+07_10	walk
+07_11	walk
+07_12	brisk walk
+
+08_01	walk
+08_02	walk
+08_03	walk
+08_04	slow walk
+08_05	walk/stride
+08_06	walk
+08_07	walk, exaggerated stride
+08_08	walk
+08_09	walk
+08_10	walk
+08_11	slow walk/stride
+
+09_01	run
+09_02	run
+09_03	run
+09_04	run
+09_05	run
+09_06	run
+09_07	run
+09_08	run
+09_09	run
+09_10	run
+09_11	run
+09_12	navigate - walk forward, backward, sideways
+
+10_04	walk
+
+12_01	walk
+12_02	walk
+12_03	walk
+
+13_14	laugh
+13_15	laugh
+13_16	laugh
+13_17	boxing
+13_18	boxing
+13_19	forward jump
+13_20	wash windows
+13_21	wash windows
+13_22	wash windows
+13_23	sweep floor
+13_24	sweep floor
+13_25	sweep floor
+
+14_17	laugh
+14_18	laugh
+14_19	laugh
+
+15_01	walk/wander
+15_03	walk/wander
+15_09	walk/wander
+15_13	boxing
+15_14	walk/wander
+
+16_08	run/jog, sudden stop
+16_11	walk, veer left
+16_12	walk, veer left
+16_13	walk, veer right
+16_14	walk, veer right
+16_15	walk
+16_16	walk
+16_17	walk, 90-degree left turn
+16_18	walk, 90-degree left turn
+16_19	walk, 90-degree right turn
+16_20	walk, 90-degree right turn
+16_21	walk
+16_22	walk
+16_23	walk, veer left
+16_24	walk, veer left
+16_25	walk, veer right
+16_26	walk, veer right
+16_27	walk, 90-degree left turn
+16_28	walk, 90-degree left turn
+16_29	walk, 90-degree right turn
+16_30	walk, 90-degree right turn
+16_31	walk
+16_32	walk
+16_33	slow walk, stop
+16_34	slow walk, stop
+16_35	run/jog
+16_36	run/jog
+16_37	run/jog, veer left
+16_38	run/jog, veer left
+16_39	run/jog, veer right
+16_40	run/jog, veer right
+16_41	run/jog, 90-degree left turn
+16_42	run/jog, 90-degree left turn
+16_43	run/jog, 90-degree right turn
+16_44	run/jog, 90-degree right turn
+16_45	run/jog
+16_46	run/jog
+16_47	walk
+16_48	run, veer left
+16_49	run, veer right
+16_50	run, veer right
+16_51	run, 90-degree left turn
+16_52	run, 90-degree left turn
+16_53	run, 90-degree right turn
+16_54	run, 90-degree right turn
+16_55	run
+16_56	run/jog
+16_57	run/jog, sudden stop
+16_58	walk
+
+26_01	walk
+
+27_01	walk
+
+29_01	walk
+
+32_01	walk
+32_02	walk
+
+35_01	walk
+35_02	walk
+35_03	walk
+35_04	walk
+35_05	walk
+35_06	walk
+35_07	walk
+35_08	walk
+35_09	walk
+35_10	walk
+35_11	walk
+35_12	walk
+35_13	walk
+35_14	walk
+35_15	walk
+35_16	walk
+35_17	run/jog
+35_18	run/jog
+35_19	run/jog
+35_20	run/jog
+35_21	run/jog
+35_22	run/jog
+35_23	run/jog
+35_24	run/jog
+35_25	run/jog
+35_26	run/jog
+35_27	navigate around obstacles
+35_28	walk
+35_29	walk
+35_30	walk
+35_31	walk
+35_32	walk
+35_33	walk
+35_34	walk
+
+37_01	slow walk
+
+38_01	walk
+38_02	walk
+38_03	run around in a circle
+38_04	walk around, frequent turns, cyclic walk along a line
+
+39_01	walk
+39_02	walk
+39_03	walk
+39_04	walk
+39_05	walk
+39_06	walk
+39_07	walk
+39_08	walk
+39_09	walk
+39_10	walk
+39_11	walk forward, turn around, walk back
+39_12	walk
+39_13	walk
+39_14	walk
+
+46_01	walk
+
+47_01	walk forward, turn around, walk back
+
+49_01	walk
+49_04	run, leap
+49_05	run, leap
+
+56_01	walk around
+
+69_01	walk forward
+69_02	walk forward
+69_03	walk forward
+69_04	walk forward
+69_05	walk forward
+69_06	walk and turn (repeated)
+69_07	walk and turn (repeated)
+69_08	walk and turn (repeated)
+69_09	walk and turn (repeated)
+69_10	walk and turn (repeated)
+69_11	walk and turn (repeated)
+69_12	walk and turn both directions (repeated)
+69_13	walk, turn in place (repeated)
+69_14	walk, turn in place (repeated)
+69_15	walk, turn in place (repeated)
+69_16	turn in place
+69_17	turn in place
+69_18	turn in place (opposite direction)
+69_19	turn in place (opposite direction)
+69_20	walk forward 90 degree right turn
+69_21	walk forward 90 degree right turn
+69_22	walk forward 90 degree right turn
+69_23	walk forward 90 degree right turn
+69_24	walk forward 90 degree left turn
+69_25	walk forward 90 degree left turn
+69_26	walk forward 90 degree left turn
+69_27	walk forward 90 degree left turn
+69_28	walk forward 90 degree smooth right turn
+69_29	walk forward 90 degree smooth right turn
+69_30	walk forward 90 degree smooth right turn
+69_31	walk forward 90 degree smooth left turn
+69_32	walk forward 90 degree smooth left turn
+69_33	walk forward 90 degree smooth left turn
+69_34	walk backwards and turn
+69_35	walk backwards and turn
+69_36	walk backwards and turn
+69_37	walk backwards and turn
+69_38	walk backwards and turn (repeated)
+69_39	walk backward, turn in place
+69_40	walk backward, turn in place
+69_41	walk backward, turn in place
+69_42	walk sideways and turn (repeated)
+69_43	walk sideways and turn (repeated)
+69_44	walk sideways and turn (repeated)
+69_45	walk sideways and turn (repeated)
+69_46	walk sideways and turn (repeated)
+69_47	walk sideways and turn (repeated)
+69_48	walk sideways and turn (opposite direction)
+69_49	walk sideways and turn (opposite direction)
+69_50	walk sideways and backwards
+69_51	walk backwards and turn
+69_52	walk backwards and turn
+69_53	walk backwards and turn
+69_54	walk backwards and turn
+69_55	walk backwards and turn
+69_56	walk sideways and turn (opposite direction)
+69_57	walk sideways and turn (opposite direction)
+69_58	walk sideways and turn (opposite direction)
+69_59	walk sideways and turn
+69_60	walk sideways and turn
+69_61	walk sideways and turn
+69_62	walk sideways and turn (opposite direction)
+69_63	walk sideways and turn (opposite direction)
+69_64	walk sideways and turn (opposite direction)
+69_65	walk sideways and turn
+69_66	walk sideways and turn
+69_67	walk sideways and turn
+
+74_01	stiff walk
+74_02	stiff walk
+74_20	stiff walk
+
+77_01	looking around
+77_02	standing
+77_03	ready stance
+77_04	Looking around
+77_05	look around with flashlight
+77_06	searching ground
+77_10	careful run
+77_11	careful run
+77_12	careful run in circle
+77_13	careful run in figure eight
+
+78_01	LeftTightTurn         CleanedGRS
+78_02	RightWideTurn            CleanedGRS
+78_03	LeftWideTurn     CleanedGRS
+78_04	SuperTightLeft        CleanedGRS
+78_05	SuperTightRight         CleanedGRS
+78_06	RunningStraight       CleanedGRS
+78_07	RunningWideRight       CleanedGRS
+78_08	RunningWideLeft      CleanedGRS
+78_09	RunningTigherLeft      CleanedGRS
+78_10	RunningTighterRight      CleanedGRS
+78_11	calibration
+78_12	RunningNoBall     CleanedGRS
+78_13	OffensiveMoveSpinLeft            CleanedGRS
+78_14	OffensiveMoveSpinLeft      CleanedGRS
+78_15	OffensiveMoveGoRight     CleanedGRS
+78_16	OffensiveMoveGoLeft         CleanedGRs
+78_17	OffensiveMoveSpinRight             CleanedGRS
+78_18	WalkEvasiveLeft      CleanedGRS
+78_19	WalkEvasiveRight              CleanedGRS
+78_20	FeintLeftMoveRight            CleanedGRS
+78_21	FeintRightMoveLeft      CleanedGRS
+78_22	FakeShotBreakRight     CleanedGRs
+78_23	FakeShotBreakLeft            CleanedGRS
+78_24	DefensiveStraightNoStop          CleanedGRS
+78_25	DefensiveStraightWithStop          CleanedGRS
+78_26	DefensiveRightStopToStop           CleanedGRS
+78_27	DefensiveLeftStopToStop              CleanedGRS
+78_28	DefensiveMoveZigZag           CleanedGRS
+78_29	DefensiveMoveSideToSide           CleanedGRS
+78_30	DefensiveMoveSideToSide           CleanedGRS
+78_31	Pivoting     CleanedGRS
+78_32	SraightDriveFromStop          Cleaned GRS
+78_33	RightDrive (left then right)    Cleaned GRS
+78_34	LeftDrive (right then left)    Cleaned GRS
+78_35	RightTightTurn    CleanedGRS
+
+82_08	stand still; casual walk forward
+82_09	confident walk forward
+82_10	sad walk forward
+82_11	normal walk forward
+82_12	happy or fast walk forward
+82_13	normal walk forward
+82_14	walk forward and slow down
+82_15	walk forward and turn sideways
+
+83_01	large sidestep to right
+83_02	sidestep to the right and up a ledge
+83_03	large step to a short ledge
+83_04	large sidestep to right
+83_05	very large sidestep to right
+83_06	very large sidestep to right and down
+83_07	short sidestep to right and down
+83_08	medium step forward and down
+83_09	short step forward and down
+83_10	medium step forward and down
+83_11	static pose
+83_12	medium sidestep to right and down
+83_13	large sidestep to right
+83_14	short sidestep to left and down
+83_15	short step forward
+83_16	medium sidestep to left and down
+83_17	medium step to left and down
+83_18	short step to left and forward
+83_19	medium sidestep to left
+83_20	medium step forward
+83_21	large step to left and forward
+83_22	stretching
+83_23	short sidestep to left and up
+83_24	medium step to left and up
+83_25	short step forward and up
+83_26	medium step to left, forward, and up
+83_33	sidestep to right then back to left
+83_36	walk forward turn 90 degrees left walk forward
+83_37	walk forward turn 90 degrees right walk forward
+83_38	walk forward turn 90 degrees left walk forward
+83_39	walk forward turn 90 degrees right walk forward
